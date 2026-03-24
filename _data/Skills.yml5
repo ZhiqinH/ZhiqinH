@@ -1,9 +1,24 @@
-subject: 论文著作 &nbsp; Publications
-listing-order: 3
-icon: "/assets/img/flask.svg"
+subject: Skills
+listing-order: 5
+icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: 期刊论文 &nbsp; Journal Paper
-    ref: 
-      - "[1] Xue Kai, **Huang Zhiqin**, Wang Ping, et al.“[A Low-Complexity Path-Planning Algorithm for Multiple USVs in Task Planning Based on the Visibility Graph Method](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:001453153400001)” [J]. Journal of Marine Science and Engineering, 2025, 13(3)."
-      - "[2] **Huang Zhiqin**, Xue Kai, Wang Ping, et al. “[A nested-ring exact algorithm for simple basic group communication topology optimization in Multi-USV systems](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:000899842000002)” [J]. Ocean Engineering, 2022, 266."
-      - "[3] Xue Kai,  **Huang Zhiqin**, Wang Ping, et al.“[An Exact Algorithm for Task Allocation of Multiple Unmanned Surface Vehicles with Minimum Task Time](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:000689365100001)” [J]. Journal of Marine Science and Engineering, 2021, 9(8)."
+  - title: Programming Languages
+    description: "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
+    "
+  - title: Frameworks
+    description: "
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
+      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
+    "
