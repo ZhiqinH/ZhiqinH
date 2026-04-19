@@ -7,8 +7,6 @@ You may also visit the following website to view my self-introduction:
 
 ## 🎓基本信息 Basic Information
 
-<img src="https://ZhiqinH.github.io/assets/img/me.png" width="30%">
-
 * 黄郅钦  
 Zhiqin Huang
 
