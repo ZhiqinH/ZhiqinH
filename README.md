@@ -3,11 +3,11 @@
 您可以同样访问下列网址查看我的自我介绍:  
 You may also visit the following website to view my self-introduction:  
 [https://huangzhiqin.com](https://huangzhiqin.com)  
-[https://keaixiaopang.github.io](https://keaixiaopang.github.io)
+[https://ZhiqinH.github.io](https://ZhiqinH.github.io)
 
 ## 🎓基本信息 Basic Information
 
-<img src="https://keaixiaopang.github.io/assets/img/me.png" width="30%">
+<img src="https://ZhiqinH.github.io/assets/img/me.png" width="30%">
 
 * 黄郅钦  
 Zhiqin Huang
