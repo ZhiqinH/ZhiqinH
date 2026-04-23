@@ -4,6 +4,8 @@
 You may also visit the following website to view my self-introduction:  
 [https://huangzhiqin.com](https://huangzhiqin.com)  
 [https://ZhiqinH.github.io](https://ZhiqinH.github.io)
+[https://orcid.org/0000-0002-6501-2331](https://orcid.org/0000-0002-6501-2331)
+[https://www.webofscience.com/wos/author/record/HNS-5916-2023](https://www.webofscience.com/wos/author/record/HNS-5916-2023)
 
 ## 🎓基本信息 Basic Information
 
