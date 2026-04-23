@@ -15,8 +15,8 @@ Lecturer of Liaoning University of Technology
 
 ## 🎓教育经历 Education
 
-* **哈尔滨工程大学，机械工程博士**  
-**Harbin Engineering University, PhD in Mechanical Engineering**
+* **哈尔滨工程大学，机械工程博士（硕博连读）**  
+**Harbin Engineering University, PhD in Mechanical Engineering (Integrated Master’s & PhD Program)**
 
   研究方向：多无人船任务规划  
 The research direction is multi-USV task planning
