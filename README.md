@@ -43,7 +43,7 @@ The research direction is multi-agent task planning
 * "[3] Xue Kai,  **Huang Zhiqin**, Wang Ping, et al.“[An Exact Algorithm for Task Allocation of Multiple Unmanned Surface Vehicles with Minimum Task Time](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:000689365100001)” [J]. Journal of Marine Science and Engineering, 2021, 9(8)."
 
 ## 🎓其他经历 Other Experiences
-* 曾任《OCEAN ENGINEERING》期刊审稿人（[相关证书](./others/Certificate_OE_Recognised.pdf)）  
+* 《OCEAN ENGINEERING》期刊审稿人 
 Served as a reviewer for the journal *Ocean Engineering*.
 
 ## License
